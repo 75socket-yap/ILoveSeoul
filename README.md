@@ -19,14 +19,18 @@
 
 * 실시간 검색 시 옵션이 변경될 때 자동으로 서버에 요청을 전송합니다.
 * 사용자의 현재 위치에 자동으로 포커스가 맞춰지고, 주변 관광지를 마커로 표시합니다.
+
 ![Image](https://github.com/user-attachments/assets/6b468b89-b6ef-47a3-bfe8-d7ed75916e85)
 
 * 지도에서 오버레이를 클릭하면 상세 정보를 확인할 수 있습니다.
 * 상세 정보는 오버레이 클릭 시 서버에서 받아옵니다.
+
 ![Image](https://github.com/user-attachments/assets/ac79e42e-abd5-40c1-b9e6-6faabd4fa8db)
 
-* 축제 지도에서는 관광지 대신 현재 진행 중이거나 예정된 축제 정보를 표시합니다. 
+* 축제 지도에서는 관광지 대신 현재 진행 중이거나 예정된 축제 정보를 표시합니다.
+ 
 ![Image](https://github.com/user-attachments/assets/ee4076ab-739f-41d0-aee0-c4cf22f3c7e8)
 
 * 반려동물 지도에서는 반려동물 동반이 가능한 관광지를 보여줍니다.
+
 ![Image](https://github.com/user-attachments/assets/1cee1f0d-ba86-4462-b9b5-4f06f70e4d29)
